@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/prik-k/best-of-codepen/stargazers"><img src="https://img.shields.io/github/stars/prik-k/best-of-codepen.svg?style=popout-square" alt="GitHub stars"></a>
   <a href="https://github.com/prik-k/best-of-codepen/issues"><img src="https://img.shields.io/github/issues/prik-k/best-of-codepen.svg?style=popout-square" alt="GitHub issues"></a>
-  <a href="https://github.com/https://github.com/prik-k/best-of-codepen/forks"><img src="https://img.shields.io/github/forks/prik-k/best-of-codepen.svg?style=popout-square" alt="GitHub forks"></a>
+  <a href="https://github.com/prik-k/best-of-codepen/forks"><img src="https://img.shields.io/github/forks/prik-k/best-of-codepen.svg?style=popout-square" alt="GitHub forks"></a>
   <a href="https://github.com/prik-k/best-of-codepen/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests"></a>
   <a href="LICENSE.md"><img src="https://img.shields.io/badge/License-MIT-lightgrey.svg?longCache=true" alt="MIT License"></a>
 </p>
