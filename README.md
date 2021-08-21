@@ -1,6 +1,47 @@
-# best-of-codepen
-best-of-codepen
 
+# Best of Codepen 
+
+
+###   :octocat:    A curated list of best-of-codepen collection that showcases many great CSS designes, animations and much more!.🎉
+
+
+
+<p align="center">
+  <a href="https://github.com/prik-k/best-of-codepen/stargazers"><img src="https://img.shields.io/github/stars/prik-k/best-of-codepen.svg?style=popout-square" alt="GitHub stars"></a>
+  <a href="https://github.com/https://github.com/prik-k/best-of-codepen/issues"><img src="https://img.shields.io/github/issues/prik-k/best-of-codepen.svg?style=popout-square" alt="GitHub issues"></a>
+  <a href="https://github.com/https://github.com/prik-k/best-of-codepen/forks"><img src="https://img.shields.io/github/forks/prik-k/best-of-codepen.svg?style=popout-square" alt="GitHub forks"></a>
+  <a href="https://github.com/prik-k/best-of-codepen/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests"></a>
+  <a href="LICENSE.md"><img src="https://img.shields.io/badge/License-MIT-lightgrey.svg?longCache=true" alt="MIT License"></a>
+</p>
+
+
+
+
+<div align="center">
+  <sub>Created by
+  <a href="https://twitter.com/priyanskhodiyar">Priyansh</a> and
+  <a href="https://github.com/prik-k/best-of-codepen/graphs/contributors">contributors</a>
+ </sub>
+  <p>Feel free to contribute and star ⭐️ if this was awesome!</p>
+</div>
+
+
+
+ 
+
+## INDEX
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+ - [FOR WHOM](#for-whom)
+ - [CONTRIBUTING](#contributing)
+ - [WHAT IS THE ANSWER TO LIFE, THE UNIVERSE, AND EVERYTHING?](#what-is-the-answer-to-life-the-universe-and-everything)
+ - [ATWOOD'S-LAW](#atwoods-law-here)
+ - [TODO](#todo)
+
+ 
 ## CODEPEN
 
 | NOS  | LINK                                                                             | CODEPEN DESCRIPTION                                      |
@@ -275,4 +316,68 @@ best-of-codepen
 
 
 
+
+## FOR-WHOM?
+
+For everyone, really. Here everyone can find their favourite taste of CSS designes and animations. Have fun exploring and if you find some cool projects like these which are missing here then do tell us!.
+
+
+**[`^top^`](#)** 
+
+
+<hr>
+ 
+## CONTRIBUTING
+
+If you find something which doesn't make sense, or something doesn't seem right, please make a pull request and please add valid and well-reasoned explanations about your changes or comments.
+
+Before adding a pull request, please see the **[contributing guidelines](.github/CONTRIBUTING.md)**. 
+
+
+**[`^top^`](#)**
+ 
+ <hr>
+ 
+## WHAT IS THE ANSWER TO LIFE, THE UNIVERSE, AND EVERYTHING?
+  - it's 42
+
+    ![answer](https://raw.githubusercontent.com/prik-k/awesome-OS/main/media/answer.png)
+ 
+ Thanks [@blueedgetechno]( https://github.com/blueedgetechno ) for this!
+
+
+**[`^top^`](#)**
+  
+<hr>
+ 
+## ATWOOD'S LAW [here](https://www.reddit.com/r/atwoodslaw/)
+  - Any application that can be written in JavaScript, will eventually be written in JavaScript. - Jeff Atwood (2007) 
+ 
+ 
+**[`^top^`](#)**
+  
+ <hr>
+ 
+```diff
++ This repository is not meant to contain everything but only good quality stuff.
+```
+
+All **suggestions/PR** are welcome!
+
+
+ 
+ 
+##  TODO
+ - [ ] Improve the descriptions of mentioned pen.
+ - [ ] Add new stuff
+
+ 
+ 
+:shipit:
+:trollface:
+🇮🇳 
+ 
+ 
+**[`^        back to top        ^`](#)**
+ 
 
