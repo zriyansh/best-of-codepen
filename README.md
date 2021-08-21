@@ -327,6 +327,20 @@
 | 26. | [demo here](http://daniel-lundin.github.io/snabbt.js/#demos)  | snabbt.js            |
 | 27. | [demo here](http://cssanimate.com)                            | animation calculator |
 | 28. | [demo here](https://cubic-bezier.com/#.42,0,1,1)              | metric calculator    |
+| 29.  | [demo here](https://tympanus.net/codrops/css_reference/)                                      | An extensive CSS reference with all the important properties and info to learn CSS from the basics |
+| 30.  | [demo here](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) | The box model                                                                                      |
+| 31.  | [demo here](https://css-tricks.com/the-lengths-of-css/)                                       | The Lengths of CSS                                                                                 |
+| 32.  | [demo here](https://www.sitepoint.com/css-selectors/)                                         | Introducing CSS Selectors                                                                          |
+| 33.  | [demo here](https://www.smashingmagazine.com/2009/08/taming-advanced-css-selectors/)          | Taming Advanced CSS Selectors                                                                      |
+| 34.  | [demo here](https://www.madebymike.com.au/writing/using-css-variables/)                       | Using CSS Variables Correctly                                                                      |
+| 35.  | [demo here](http://book.mixu.net/css/)                                                        | Learn CSS Layout, the pedantic way                                                                 |
+| 36.  | [demo here](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)                          | A Complete Guide to Flexbox                                                                        |
+| 37.  | [demo here](https://css-tricks.com/snippets/css/complete-guide-grid/)                         | A Complete Guide to Grid                                                                           |
+| 38. | [demo here](https://thoughtbot.com/blog/transitions-and-transforms)                           | CSS Transitions and Transforms for Beginners                                                       |
+| 39. | [demo here](https://cssgrid-generator.netlify.app)                                            | CSS Grid Generator                                                                                 |
+| 40. | [demo here](https://www.youtube.com/watch?v=8_QwduuF0rI)                                      | CODEPEN LOADERS                                                                                    |
+
+
 
 
 **[`^top^`](#)**
