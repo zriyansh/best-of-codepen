@@ -2,7 +2,7 @@
 # Best of Codepen 
 
 
-###   :octocat:    A curated list of best-of-codepen collection that showcases many great CSS designes, animations and much more!.🎉
+###   :octocat:    A curated list of <code>best-of-codepen</code> collection that showcases many great CSS designes, animations and much more!.🎉
 
 
 
@@ -30,11 +30,8 @@
  
 
 ## INDEX
- - []()
- - []()
- - []()
- - []()
- - []()
+ - [CODEPEN](#codepen)
+ - [OTHER-SOURCES](#other-sources)
  - [FOR WHOM](#for-whom)
  - [CONTRIBUTING](#contributing)
  - [WHAT IS THE ANSWER TO LIFE, THE UNIVERSE, AND EVERYTHING?](#what-is-the-answer-to-life-the-universe-and-everything)
@@ -44,7 +41,7 @@
  
 ## CODEPEN
 
-| NOS  | LINK                                                                             | CODEPEN DESCRIPTION                                      |
+| NOS  | <code>LINK</code>                                                                             | CODEPEN DESCRIPTION                                      |
 | ---- | -------------------------------------------------------------------------------- | :------------------------------------------------------- |
 | 01.  | [click here](https://codepen.io/josetxu/full/xxgNbxp)                            | Password reveal                                          |
 | 02.  | [click here](https://codepen.io/narohan/full/eYgaYdm)                            | click on points on image for zoom and typing description |
@@ -296,7 +293,7 @@
 
 ## OTHER RESOURCES
 
-| NOS | LINK                                                                               |  DESCRIPTION                       |
+| NOS | <code>LINK</code>                                                                               |  DESCRIPTION                       |
 | --- | ---------------------------------------------------------------------------------- | ---------------------------------- |
 | 01. | [click here](https://lmgonzalves.github.io/download-button/)                       | download button                    |
 | 02. | [click here](https://freefrontend.com/bootstrap-weather/)                          | weather cards                      |
