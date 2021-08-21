@@ -314,6 +314,20 @@
 | 13. | [click here](https://freefrontend.com/css-neumorphism-examples/)                   | All 34 Neumorphism designs         |
 | 14. | [click here](https://www.10bestdesign.com/jqvmap/)                                 | world map                          |
 | 15. | [click here](https://www.vincentbroute.fr/mapael/)                                 | maps all                           |
+| 16.  | [demo here](https://bestjquery.com/tutorial/counter/demo125/) | Bootstrap Counters1  |
+| 17.  | [demo here](https://bestjquery.com/tutorial/counter/demo120/) | Bootstrap Counters2  |
+| 18.  | [demo here](https://bestjquery.com/tutorial/counter/demo119/) | Bootstrap Counters3  |
+| 19.  | [demo here](https://bestjquery.com/tutorial/counter/demo107/) | Bootstrap Counters4  |
+| 20.  | [demo here](https://bestjquery.com/tutorial/counter/demo91/)  | Bootstrap Counters5  |
+| 21.  | [demo here](https://bestjquery.com/tutorial/counter/demo90/)  | Bootstrap Counters6  |
+| 22.  | [demo here](https://bootsnipp.com/snippets/ooPld)             | COUPONS              |
+| 23.  | [demo here](https://animate.style)                            | Animate Library      |
+| 24.  | [demo here](http://ianlunn.github.io/Hover/)                  | Hover library        |
+| 25. | [demo here](https://greensock.com/showcase/)                  | mind blown           |
+| 26. | [demo here](http://daniel-lundin.github.io/snabbt.js/#demos)  | snabbt.js            |
+| 27. | [demo here](http://cssanimate.com)                            | animation calculator |
+| 28. | [demo here](https://cubic-bezier.com/#.42,0,1,1)              | metric calculator    |
+
 
 **[`^top^`](#)**
   
