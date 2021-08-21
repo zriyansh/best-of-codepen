@@ -31,7 +31,7 @@
 
 ## INDEX
  - [CODEPEN](#codepen)
- - [OTHER-SOURCES](#other-sources)
+ - [OTHER-RESOURCES](#other-resources)
  - [FOR WHOM](#for-whom)
  - [CONTRIBUTING](#contributing)
  - [WHAT IS THE ANSWER TO LIFE, THE UNIVERSE, AND EVERYTHING?](#what-is-the-answer-to-life-the-universe-and-everything)
